@@ -21,7 +21,7 @@
 
 ## What is the use of enums in TypeScript? Provide an example of a numeric and string enum.
 
-    enums is a special data type that allows to define a set of named constants. There are two main types of enums in TypeScript: numeric enums and string enums.
+enums is a special data type that allows to define a set of named constants. There are two main types of enums in TypeScript: numeric enums and string enums.
 
 Numeric enum
 
